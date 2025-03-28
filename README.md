@@ -50,9 +50,9 @@ Mi piace combinare **hardware, software e interfacce smart** per migliorare ogni
 
 ## 🔗 Contatti & Social
 
-[![Email]([primebuild.official@gmail.com])
-[![Discord](https://discord.gg/ERUwSxE79q)
-[![Instagram](https://www.instagram.com/prime_build_/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:primebuild.official@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ERUwSxE79q)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prime_build_/)
 
 ---
 
