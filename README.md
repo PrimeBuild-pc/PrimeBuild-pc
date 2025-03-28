@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Chi sono
 
-Ciao! Mi chiamo **Vicente**, e sono il creatore di **PrimeBuild**, un progetto nato per offrire:
+Ciao! Mi chiamo **Lorenzo**, e sono il creatore di **PrimeBuild**, un progetto nato per offrire:
 - 🧩 **Assemblaggi PC** ad alte prestazioni
 - 🧠 **Consulenza e tweaking** per eSport
 - 🧪 **Tool intelligenti** per ottimizzare l'esperienza utente
