@@ -50,7 +50,7 @@ Mi piace combinare **hardware, software e interfacce smart** per migliorare ogni
 
 ## 🔗 Contatti & Social
 
-[![Email](primebuild.official@gmail.com)
+[![Email]([primebuild.official@gmail.com])
 [![Discord](https://discord.gg/ERUwSxE79q)
 [![Instagram](https://www.instagram.com/prime_build_/)
 
