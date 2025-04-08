@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const session = require('express-session');
-const { setupAuth } = require('./auth');
+const { setupAuthRoutes } = require('./auth-simple');
 const { supabase } = require('./supabase');
 
 // Create Express app
@@ -32,8 +32,8 @@ const sessionSettings = {
 
 app.use(session(sessionSettings));
 
-// Setup authentication
-setupAuth(app);
+// Setup authentication routes
+setupAuthRoutes(app);
 
 // Setup basic API routes
 app.get('/api/health', (req, res) => {
