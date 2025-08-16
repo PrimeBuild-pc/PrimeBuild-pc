@@ -17,16 +17,6 @@ Mi piace combinare **hardware, software e interfacce smart** per migliorare ogni
 
 ---
 
-## 🚀 Progetti in evidenza
-
-| Progetto | Descrizione |
-|---------|-------------|
-| 🎯 [Crosshair Easy](https://github.com/PrimeBuild-pc/Crosshair-Easy) | Mirino sempre visibile e personalizzabile per gamer |
-| 📊 [Benchmark Tool](https://github.com/PrimeBuild-pc/BenchmarkTool) | Interfaccia grafica per confrontare FPS, punteggi e prestazioni |
-| 🧰 [Toolkit PrimeBuild](https://github.com/PrimeBuild-pc/Toolkit) *(coming soon)* | Collezione di script e tool utili per utenti Windows e gamer |
-
----
-
 ## 🧵 Stack & Competenze
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
