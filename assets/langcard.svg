@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<rect width="640" height="360" rx="16" fill="#161b22"/><rect width="640" height="360" rx="16" fill="none" stroke="#30363d"/>
+<text x="24" y="28" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" letter-spacing="3" fill="#8b949e">LINGUAGGI&#160;USATI&#160;&#183;&#160;REPO&#160;PUBBLICHE</text>
+<text x="24" y="58" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" fill="#c9d1d9">C#</text>
+<rect x="200" y="40" width="420" height="14" rx="7" fill="#21262d"/>
+<rect x="200" y="40" width="0" height="14" rx="7" fill="#7f52ff"><animate attributeName="width" from="0" to="214" dur="1.4s" fill="freeze" begin="0.2s"/></rect>
+<text x="630" y="58" font-family="'Consolas', monospace" font-size="17" fill="#8b949e" text-anchor="end">51.0%</text>
+<text x="24" y="102" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" fill="#c9d1d9">TypeScript</text>
+<rect x="200" y="84" width="420" height="14" rx="7" fill="#21262d"/>
+<rect x="200" y="84" width="0" height="14" rx="7" fill="#3178c6"><animate attributeName="width" from="0" to="61" dur="1.4s" fill="freeze" begin="0.2s"/></rect>
+<text x="630" y="102" font-family="'Consolas', monospace" font-size="17" fill="#8b949e" text-anchor="end">14.6%</text>
+<text x="24" y="146" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" fill="#c9d1d9">PowerShell</text>
+<rect x="200" y="128" width="420" height="14" rx="7" fill="#21262d"/>
+<rect x="200" y="128" width="0" height="14" rx="7" fill="#5391fe"><animate attributeName="width" from="0" to="55" dur="1.4s" fill="freeze" begin="0.2s"/></rect>
+<text x="630" y="146" font-family="'Consolas', monospace" font-size="17" fill="#8b949e" text-anchor="end">13.3%</text>
+<text x="24" y="190" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" fill="#c9d1d9">HTML</text>
+<rect x="200" y="172" width="420" height="14" rx="7" fill="#21262d"/>
+<rect x="200" y="172" width="0" height="14" rx="7" fill="#e34c26"><animate attributeName="width" from="0" to="53" dur="1.4s" fill="freeze" begin="0.2s"/></rect>
+<text x="630" y="190" font-family="'Consolas', monospace" font-size="17" fill="#8b949e" text-anchor="end">12.7%</text>
+<text x="24" y="234" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" fill="#c9d1d9">Dart</text>
+<rect x="200" y="216" width="420" height="14" rx="7" fill="#21262d"/>
+<rect x="200" y="216" width="0" height="14" rx="7" fill="#00c4b3"><animate attributeName="width" from="0" to="26" dur="1.4s" fill="freeze" begin="0.2s"/></rect>
+<text x="630" y="234" font-family="'Consolas', monospace" font-size="17" fill="#8b949e" text-anchor="end">6.2%</text>
+<text x="24" y="278" font-family="'Segoe UI', system-ui, sans-serif" font-size="18" fill="#c9d1d9">Altri</text>
+<rect x="200" y="260" width="420" height="14" rx="7" fill="#21262d"/>
+<rect x="200" y="260" width="0" height="14" rx="7" fill="#8b949e"><animate attributeName="width" from="0" to="9" dur="1.4s" fill="freeze" begin="0.2s"/></rect>
+<text x="630" y="278" font-family="'Consolas', monospace" font-size="17" fill="#8b949e" text-anchor="end">2.2%</text>
+</svg>
