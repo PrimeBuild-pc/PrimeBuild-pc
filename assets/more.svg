@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="96" viewBox="0 0 800 96">
+<rect width="800" height="96" rx="16" fill="#161b22"/><rect width="800" height="96" rx="16" fill="none" stroke="#30363d"/>
+<text x="400" y="48" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="6" text-anchor="middle" fill="#c9d1d9">AND MORE IN DEVELOPMENT</text>
+<circle cx="378" cy="70" r="5" fill="#ff6600"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.2s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="400" cy="70" r="5" fill="#ff6600"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.2s" begin="0.35s" repeatCount="indefinite"/></circle><circle cx="422" cy="70" r="5" fill="#ff6600"><animate attributeName="opacity" values="0.15;1;0.15" dur="1.2s" begin="0.7s" repeatCount="indefinite"/></circle></svg>

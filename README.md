@@ -3,68 +3,74 @@
 </p>
 
 <p align="center">
-  <i>Ciao, sono <b>Lorenzo</b> — fondatore di <b>Prime Build</b>.</i><br/>
-  Costruisco PC su misura e strumenti che rendono il tuo hardware <b>davvero veloce</b>. Tutto su <a href="https://primebuild.website"><b>primebuild.website</b></a>.
+  <i>Hi, I'm <b>Lorenzo</b> — founder of <b>Prime Build</b>.</i><br/>
+  I build custom PCs and software tools that make your hardware faster — and let you <b>make the most of it</b>. Everything on <a href="https://primebuild.website"><b>primebuild.website</b></a>.
 </p>
 
 ---
 
-## 🚀 Cosa fa Prime Build
+## 🚀 What Prime Build does
 
-**Prime Build** è consulenza e assemblaggio PC — gaming, workstation e ufficio — con un obiettivo fisso:
+Prime Build is PC consulting, assembly and repairs — gaming, workstation and office — with one goal:
 
-> **Massimizzare la tua spesa: ogni euro deve tradursi in prestazioni reali.**
+> **Make every euro you spend become real performance.**
 
-Niente componenti di marca perché sì, niente build "da listino": solo quello che serve al tuo caso d'uso, testato e ottimizzato. In più riparazioni di PC e console, tweaks mirati e overclock.
+No brand-name parts just for the label, no "off-the-shelf" builds: only what your use case needs, tested and tuned. Plus PC and console repairs, targeted tweaks and overclocking.
+
+And beyond building fast machines, I develop software tools that don't just speed up your hardware — they let you **make the most of what you have**: full control, visibility and optimization of everything your PC can really do.
 
 <div align="center" style="margin:24px 0">
 
 | | |
 |---|---|
-| 🖥️ **Assemblaggio PC**<br/><sub>gaming · workstation · ufficio</sub> | 🎯 **Consulenza**<br/><sub>massimo prestazioni per euro speso</sub> |
-| 🛠️ **Riparazioni**<br/><sub>PC e console, hardware e software</sub> | ⚡ **Tweaks & Overclock**<br/><sub>tuning Windows, OC stabile, benchmark</sub> |
+| 🖥️ **PC Building**<br/><sub>gaming · workstation · office</sub> | 🎯 **Consulting**<br/><sub>maximum performance per euro spent</sub> |
+| 🛠️ **Repairs**<br/><sub>PCs and consoles, hardware and software</sub> | ⚡ **Tweaks & Overclocking**<br/><sub>Windows tuning, stable OC, benchmarks</sub> |
 
 </div>
 
 ---
 
-## 📊 Stats & Linguaggi
+## 📊 Stats & Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/langcard.svg" alt="Linguaggi usati" width="46%"/>
-  <img src="https://streak-stats.demolab.com/?user=PrimeBuild-pc&background=161b22&border=30363d&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=22d3ee&sideLabels=8b949e&dates=8b949e" alt="Streak" width="46%"/>
+  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/langcard.svg" alt="Languages used" width="46%"/>
+  <img src="https://streak-stats.demolab.com/?user=PrimeBuild-pc&background=161b22&border=30363d&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakNum=fff&sideNums=c9d1d9&currStreakLabel=ff6600&sideLabels=8b949e&dates=8b949e" alt="Streak" width="46%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrimeBuild-pc&bg_color=0d1117&color=22d3ee&line=22d3ee&point=c9d1d9&area=true&area_color=22d3ee&hide_border=true&custom_title=Attivit%C3%A0%20recenti" width="100%" alt="Attività recenti"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrimeBuild-pc&bg_color=0d1117&color=ff6600&line=ff6600&point=c9d1d9&area=true&area_color=ff6600&hide_border=true&custom_title=Recent%20activity" width="100%" alt="Recent activity"/>
 </p>
 
-<sub>Percentuali calcolate sui repo pubblici via GitHub API. Widget live: streak · activity graph.</sub>
+<sub>Percentages computed on public repos via the GitHub API. Live widgets: streak · activity graph.</sub>
 
 ---
 
-## 🔥 Progetti in Trend
+## 🔥 Trending Projects
 
 <div align="center">
 
-| Progetto | Descrizione | |
+| Project | Description | |
 |---|---|---|
-| [**TweakHub**](https://github.com/PrimeBuild-pc/TweakHub) | All-in-one control center per tweak di sistema Windows | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/TweakHub?style=flat-square&label=stars&color=22d3ee) |
-| [**ThreadPilot**](https://github.com/PrimeBuild-pc/ThreadPilot) | Alternativa open-source a Process Lasso per Windows | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/ThreadPilot?style=flat-square&label=stars&color=22d3ee) |
-| [**ZapTweaks**](https://github.com/PrimeBuild-pc/ZapTweaks) | Ottimizzatore gaming per Windows 11 | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/ZapTweaks?style=flat-square&label=stars&color=22d3ee) |
-| [**SockTuner**](https://github.com/PrimeBuild-pc/SockTuner) | Tuning e diagnostica di rete avanzata | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/SockTuner?style=flat-square&label=stars&color=22d3ee) |
-| [**LightCrosshair**](https://github.com/PrimeBuild-pc/LightCrosshair) | Crosshair minimale e personalizzabile in-game | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/LightCrosshair?style=flat-square&label=stars&color=22d3ee) |
+| [**TweakHub**](https://github.com/PrimeBuild-pc/TweakHub) | All-in-one control center for Windows system tweaks | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/TweakHub?style=flat-square&label=stars&color=ff6600) |
+| [**ThreadPilot**](https://github.com/PrimeBuild-pc/ThreadPilot) | Open-source Process Lasso alternative for Windows | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/ThreadPilot?style=flat-square&label=stars&color=ff6600) |
+| [**ZapTweaks**](https://github.com/PrimeBuild-pc/ZapTweaks) | Windows 11 gaming optimizer | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/ZapTweaks?style=flat-square&label=stars&color=ff6600) |
+| [**SockTuner**](https://github.com/PrimeBuild-pc/SockTuner) | Advanced network tuning & diagnostics | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/SockTuner?style=flat-square&label=stars&color=ff6600) |
+| [**LightCrosshair**](https://github.com/PrimeBuild-pc/LightCrosshair) | Minimal customizable in-game crosshair | ![stars](https://img.shields.io/github/stars/PrimeBuild-pc/LightCrosshair?style=flat-square&label=stars&color=ff6600) |
 
 </div>
 
-### 📚 Guide tecniche
-- [Guida completa NVIDIA DLSS 4.5](https://github.com/PrimeBuild-pc/guida-completa-nvidia-dlss-4.5) — preset, qualità, FPS
-- [Guida riduzione latenza](https://github.com/PrimeBuild-pc/low-latency-gaming-guide) — rete e sistema
-- [Bufferbloat: LibreQoS vs Waveform](https://github.com/PrimeBuild-pc/bufferbloat-analysis) — analisi comparativa
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/more.svg" alt="And more in development" width="100%"/>
+</p>
+
+### 📚 Technical guides
+- [Complete NVIDIA DLSS 4.5 guide](https://github.com/PrimeBuild-pc/guida-completa-nvidia-dlss-4.5) — presets, quality, FPS
+- [Low-latency gaming guide](https://github.com/PrimeBuild-pc/low-latency-gaming-guide) — network & system
+- [Bufferbloat: LibreQoS vs Waveform](https://github.com/PrimeBuild-pc/bufferbloat-analysis) — comparative analysis
 
 ---
 
-## 🧰 Stack & Strumenti
+## 🧰 Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -79,13 +85,13 @@ Niente componenti di marca perché sì, niente build "da listino": solo quello c
 
 ---
 
-## 📬 Contatti
+## 📬 Contacts
 
 <p align="center">
-  <a href="https://primebuild.website"><img src="https://img.shields.io/badge/Sito%20Web-primebuild.website-22d3ee?style=flat-square" alt="Sito Web"/></a>
+  <a href="https://primebuild.website"><img src="https://img.shields.io/badge/Website-primebuild.website-ff6600?style=flat-square" alt="Website"/></a>
   <a href="mailto:primebuild.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://discord.gg/ERUwSxE79q"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://www.instagram.com/prime_build_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<p align="center"><b style="color:#22d3ee">PRIME BUILD — build your dream.</b> ⚡</p>
+<p align="center"><b style="color:#ff6600">PRIME BUILD — build your dream.</b> 🔧</p>
