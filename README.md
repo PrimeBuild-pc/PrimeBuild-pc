@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/banner.svg" alt="Prime Build — build your dream" width="100%"/>
+  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/banner.svg?v=2" alt="Prime Build — build your dream" width="100%"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ And beyond building fast machines, I develop software tools that don't just spee
 ## 📊 Stats & Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/langcard.svg" alt="Languages used" width="46%"/>
+  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/langcard.svg?v=2" alt="Languages used" width="46%"/>
   <img src="https://streak-stats.demolab.com/?user=PrimeBuild-pc&background=161b22&border=30363d&stroke=ff6600&ring=ff6600&fire=ff6600&currStreakNum=fff&sideNums=c9d1d9&currStreakLabel=ff6600&sideLabels=8b949e&dates=8b949e" alt="Streak" width="46%"/>
 </p>
 
@@ -60,7 +60,7 @@ And beyond building fast machines, I develop software tools that don't just spee
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/more.svg" alt="And more in development" width="100%"/>
+  <img src="https://raw.githubusercontent.com/PrimeBuild-pc/PrimeBuild-pc/main/assets/more.svg?v=2" alt="And more in development" width="100%"/>
 </p>
 
 ### 📚 Technical guides
