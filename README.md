@@ -7,6 +7,18 @@
   I build custom PCs and software tools that make your hardware faster — and let you <b>make the most of it</b>. Everything on <a href="https://primebuild.website"><b>primebuild.website</b></a>.
 </p>
 
+<p align="center">
+  <a href="https://github.com/PrimeBuild-pc/PrimeBuild-pc/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/PrimeBuild-pc/PrimeBuild-pc?style=plastic&amp;logo=git&amp;logoColor=white"></a>
+  <a href="https://github.com/PrimeBuild-pc/PrimeBuild-pc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/PrimeBuild-pc/PrimeBuild-pc?style=plastic&amp;logo=github"></a>
+  <a href="https://github.com/PrimeBuild-pc/PrimeBuild-pc/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/PrimeBuild-pc/PrimeBuild-pc?style=plastic&amp;logo=github"></a>
+</p>
+
+<p align="center">
+  <a href="https://primebuild.website"><img alt="Prime Build website" src="https://img.shields.io/website?url=https%3A%2F%2Fprimebuild.website&amp;style=plastic&amp;label=primebuild.website"></a>
+  <img alt="Windows tools" src="https://img.shields.io/badge/focus-Windows%20tools-0078D4?style=plastic&amp;logo=windows&amp;logoColor=white">
+  <img alt="PC gaming" src="https://img.shields.io/badge/focus-PC%20gaming-8b5cf6?style=plastic">
+</p>
+
 ---
 
 ## 🚀 What Prime Build does
