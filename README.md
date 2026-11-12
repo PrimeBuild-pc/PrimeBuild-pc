@@ -92,6 +92,7 @@ And beyond building fast machines, I develop software tools that don't just spee
   <a href="mailto:primebuild.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://discord.gg/ERUwSxE79q"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://www.instagram.com/prime_build_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://ko-fi.com/primebuild"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Ko-fi"/></a>
 </p>
 
 <p align="center"><b style="color:#ff6600">PRIME BUILD — build your dream.</b> 🔧</p>
